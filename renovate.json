@@ -1,0 +1,6 @@
+{
+  "composer": {
+    "enabled": true
+  },
+  "rangeStrategy": "bump"
+}

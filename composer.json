@@ -1,0 +1,30 @@
+{
+    "name": "swashata/composer-renovate-typr-error",
+    "description": "Test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swashata Ghosh",
+            "email": "swashata@wpquark.com"
+        }
+    ],
+    "require": {
+        "enormail/enormail-php-api": "dev-master",
+		"mailerlite/mailerlite-api-v2-php-sdk": "^0.2.1",
+		"paypal/rest-api-sdk-php": "^1.12",
+		"stripe/stripe-php": "^6.2",
+		"activecampaign/api-php": "^2.0",
+		"aweber/aweber": "^1.1",
+		"campaignmonitor/createsend-php": "^6.0.0",
+		"getresponse/getresponse": "^0.0.2",
+		"drewm/mailchimp-api": "^v2.2.4",
+		"google/recaptcha": "^1.1",
+		"leafo/scssphp": "^0.7.1",
+		"stil/gd-text": "^1.1",
+		"authorizenet/authorizenet": "^1.9",
+		"yahnis-elsts/plugin-update-checker": "^4.2",
+		"twisted1919/mailwizz-php-sdk": "^1.0",
+		"defuse/php-encryption": "^2.1"
+    }
+}
